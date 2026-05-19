@@ -2,10 +2,9 @@
 
 ## General
 
-- 1x animation cannot be stopped
-- 1x site is not responsive
-- 1x navigation cannot be skipped
-- 1x image has bad alt text
+- 35x site is not responsive
+- 35x navigation cannot be skipped
+- 35x image has bad alt text
 
 ## Image
 
@@ -18,6 +17,8 @@
 ## Orientation
 
 - 1x orientation lock
+- 1x wrong lang attribute
+- 1x heading is missing
 
 ## Incorrect Purpose
 
@@ -27,6 +28,7 @@
 ## No Purpose
 
 - 1x bad accessible value for button
+- 1x wrong lang attribute
 
 ## Color
 
@@ -44,6 +46,7 @@
 ## Overflow
 
 - 1x content overlaps
+- 1x wrong lang attribute
 
 ## Text Image
 
@@ -52,6 +55,7 @@
 ## Justified Text
 
 - 1x text should not be justified
+- 1x wrong lang attribute
 
 ## Non-Text Contrast
 
@@ -60,6 +64,7 @@
 ## Text Spacing
 
 - 1x insufficient line height
+- 1x wrong lang attribute
 
 ## Keyboard
 
@@ -93,10 +98,11 @@
 ## Bypass Block
 
 - 1x repeated content cannot be skipped
+- 1x wrong lang attribute
 
 ## Focus Order
 
-- 4x element has tabindex > 0
+- 1x bad focus order
 
 ## Link Purpose
 
@@ -106,6 +112,7 @@
 ## Headings
 
 - 1x content needs headers
+- 1x wrong lang attribute
 
 ## Label in Name
 
@@ -126,10 +133,14 @@
 ## Consistency
 
 - 1x nav bar looks different than on other pages
+- 1x missing child element
+- 1x wrong child element
 
 ## Error
 
 - 1x error message does not describe the error
+- 1x input has no label
+- 2x insufficient clickable space
 
 ## Instructions
 
