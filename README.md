@@ -34,6 +34,8 @@
 
 - 1x insufficient color contrast
 - 1x link relies on color alone
+- 1x insufficient color contrast in hover state
+- 1x insufficient color contrast in focus state
 
 ## Audio
 
