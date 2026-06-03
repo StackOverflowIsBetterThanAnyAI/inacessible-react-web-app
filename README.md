@@ -6,6 +6,10 @@
 - 35x navigation cannot be skipped
 - 35x image has bad alt text
 
+## Root
+
+- 1x content needs headers
+
 ## Image
 
 - 1x image has no alt text
